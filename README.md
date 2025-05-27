@@ -6,7 +6,7 @@ A `python` package for API access to [https://helmholtz-blablador.fz-juelich.de/
 
 **Requirements:**
 ``` bash
-pip install requests
+pip install -e .
 ```
 
 **Usage design:**
