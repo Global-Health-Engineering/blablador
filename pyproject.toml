@@ -1,0 +1,6 @@
+[project]
+name = "blablador"
+version = "0.0.1"
+dependencies = [
+    "requests>=2.28"
+]
